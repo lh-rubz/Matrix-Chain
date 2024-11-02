@@ -1,0 +1,33 @@
+.dp-tables {
+  display: flex;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.table-container {
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.styled-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.styled-table th,
+.styled-table td {
+  padding: 0.75rem;
+  text-align: center;
+  border: 1px solid white;
+  transition: background-color 0.3s ease;
+}
+
+.styled-table th {
+  background-color: #999797; 
+}
+
+.highlighted-cell {
+  background-color: #ec8305; 
+  color: white;
+}

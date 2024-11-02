@@ -1,0 +1,25 @@
+.visualizer {
+  text-align: center;
+}
+
+.dp-tables {
+  display: flex;
+  justify-content: space-around;
+}
+
+.dp-table {
+  border-collapse: collapse;
+  width: 200px;
+}
+
+.dp-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.code-block {
+  background-color: #2d2d2d;
+  padding: 16px;
+  border-radius: 8px;
+  overflow-x: auto;
+}
