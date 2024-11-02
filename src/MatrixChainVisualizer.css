@@ -83,6 +83,7 @@ button {
 
 button:hover {
   background-color: #f09e39;
+  color: white;
 }
 
 .code-toggle {
