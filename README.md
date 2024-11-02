@@ -10,7 +10,8 @@ Imagine you have a series of matrices that you want to multiply together. But he
 
 Think of it like a cooking recipe: if you add the ingredients in the wrong order, you might end up with a disaster instead of a delicious meal. 🍝😱
 
-![image](https://github.com/user-attachments/assets/9c446c22-41da-452d-aad6-36893a867363)
+![homer-cooking](https://github.com/user-attachments/assets/b0f14c66-ce4d-46d8-8498-b286585001e3)
+
 
 
 ## 🔍 The Dynamic Programming Approach
@@ -63,7 +64,4 @@ The application is designed to adapt to various screen sizes. On smaller screens
 
 ## ⚙️ How to Use
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/lh-rubz/matrix-chain-visualizer.git
-   cd matrix-chain-visualizer
+Use the live demo: [https://matrix-chain.netlify.app/](https://matrix-chain.netlify.app/)
